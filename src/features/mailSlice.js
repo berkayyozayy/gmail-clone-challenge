@@ -13,7 +13,6 @@ export const mailSlice = createSlice({
       state.sendMessageIsOpen = false
     },
   },
-
 });
 
 export const { openSendMessage, closeSendMessage } = mailSlice.actions;
