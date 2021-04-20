@@ -74,6 +74,17 @@ function Mail() {
                     </IconButton>
                 </div>
             </div>
+            <div className='mail__body'>
+                <div className='mail__bodyHeader'>
+                    <h2>Subject</h2>
+                    <LabelImportantIcon className='mail__important' />
+                    <p>Title</p>
+                    <p className='mail__time'>8pm</p>
+                </div>
+                <div className='mail__message'>
+                    <p>Message will be here</p>
+                </div>
+            </div>
         </div>
     )
 }
