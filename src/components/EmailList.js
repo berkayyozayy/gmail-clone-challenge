@@ -66,7 +66,6 @@ function EmailList() {
                     time='8pm'
                 />
             </div>
-
         </div>
     )
 }
