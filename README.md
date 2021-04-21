@@ -9,10 +9,10 @@ My goal is to clone Gmail in this project. Project coded by me with following So
 3) React Router <br>
 4) Firebase <br>
 
-### Build Setup
+## Build Setup
 
-# install dependencies
+### install dependencies
 $ npm install
 
-# serve with hot reload at localhost:3000
+### serve with hot reload at localhost:3000
 $ npm start
