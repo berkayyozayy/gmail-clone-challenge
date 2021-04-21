@@ -22,3 +22,7 @@
     z-index: 100;
     border-bottom: 1px solid #f5f5f5;
 }
+
+.emailList__list {
+    padding-bottom: 20%;
+}
