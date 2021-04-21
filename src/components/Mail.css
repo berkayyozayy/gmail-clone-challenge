@@ -46,6 +46,10 @@
     overflow-wrap: break-word;
 }
 
+.mail__mailTitle {
+    margin-left: 20px !important;
+}
+
 .mail__time {
     position: absolute;
     top: 24px;

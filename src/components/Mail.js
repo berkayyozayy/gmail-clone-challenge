@@ -82,7 +82,7 @@ function Mail() {
                 <div className='mail__bodyHeader'>
                     <h2>{selectedMail?.subject}</h2>
                     <LabelImportantIcon className='mail__important' />
-                    <p>{selectedMail?.title}</p>
+                    <p className='mail__mailTitle'>{selectedMail?.title}</p>
                     <p className='mail__time'>{selectedMail?.time}</p>
                 </div>
                 <div className='mail__message'>
